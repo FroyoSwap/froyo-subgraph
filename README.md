@@ -1,6 +1,6 @@
 # FroyoSwap Subgraph
 
-[FroyoSwap](https://froyoswap.com/) is a decentralized protocol for automated token exchange on Binance Smart Chain.
+[FroyoSwap](https://froyoswap.finance/) is a decentralized protocol for automated token exchange on Binance Smart Chain.
 
 This subgraph dynamically tracks any pair created by the uniswap factory. It tracks of the current state of FroyoSwap contracts, and contains derived stats for things like historical data and USD prices.
 
